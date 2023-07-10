@@ -17,7 +17,6 @@ function App() {
       ).then((response) => {
         response.json().then((result) => {
           setData(result);
-          console.log("result", result);
         });
       });
     } catch (err) {
