@@ -1,0 +1,16 @@
+.card{
+  height: 425px;
+  width: 300px;
+  background-color: antiquewhite;
+}
+.card-flex{
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+.cloud{
+  text-align: center;
+}
+.input{
+  width: 200px;
+}
